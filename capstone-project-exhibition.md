@@ -48,6 +48,7 @@ If you ARE using a pseudonym, please use it in place of **\[last-name\]\[first-n
 
 The exhibition card image will be displayed on the exhibition projects index page card, along with other student's work. The project name and student name will be displayed under the card image.
 
+* 1200px x 600px 
 * Keep text to a minimum.
 * Do not include the name of the project unless it is part of a logo or branding.
 
