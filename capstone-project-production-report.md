@@ -4,7 +4,7 @@ A production report is a comprehensive update about what progress has been made.
 
 Reports will be due regularly throughout the course to document your progress.
 
-**Each blog post should be a minimum of 500 words long, and images or other media.**
+**Each blog post should be a minimum of 500 words long, and include images or other media.**
 
 ## Production blog
 
